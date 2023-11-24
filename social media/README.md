@@ -1,3 +1,4 @@
-# Objects and relations
+# Modling Social Media
+
 Meeting Rec
-[meet rec](https://youtu.be/nQh5VFe5mUc)
+[](https://youtu.be/4UVeU-B7Vcw)

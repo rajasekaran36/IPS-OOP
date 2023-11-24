@@ -1,4 +1,5 @@
 import java.util.*;
+// POJO
 class Post{
     private int postId;
     private String title;
