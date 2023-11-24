@@ -1,4 +1,4 @@
-# Modling Social Media
+# Modeling Social Media
 
 Meeting Rec
 [Session 2](https://youtu.be/4UVeU-B7Vcw)
